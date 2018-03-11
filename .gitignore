@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# don't commit data remotely (too big)
+data/*
